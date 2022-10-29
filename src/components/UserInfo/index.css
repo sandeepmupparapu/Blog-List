@@ -1,0 +1,24 @@
+/* Write your CSS code here */
+.user-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.image-size {
+  width: 100px;
+}
+.user-heading {
+  font-family: 'Roboto';
+  font-size: 30px;
+  font-weight: 600;
+  color: #12022f;
+  text-align: center;
+}
+.user-description {
+  font-family: 'Roboto';
+  font-size: 24px;
+  font-weight: 500;
+  color: #616e7c;
+  text-align: center;
+}
